@@ -1,9 +1,19 @@
-# React + Vite
+# React_TailwindUI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React application initialized with Vite and configured with Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# React_TailwindUI" 
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A fast build tool and development server for modern web projects.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+
+## Getting Started
+
+To set up and run this project locally, follow these steps:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/kritsadagorn/React_TailwindUI.git
+   cd React_TailwindUI
